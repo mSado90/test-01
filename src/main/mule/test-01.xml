@@ -17,7 +17,8 @@ output application/json
 ---
 {
 	"test1": "hello",
-	"atest2": 22
+	"atest2": 22,
+	"new": true
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
